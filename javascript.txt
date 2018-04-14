@@ -1,0 +1,602 @@
+http://opencarts.org/sachlaptrinh/pdf/27884.pdf
+THE MAJESTY OF VUE.JS
+http://opencarts.org/sachlaptrinh/pdf/1864.pdf
+BEGINNING JAVASCRIPT WITH DOM SCRIPTING AND AJAX, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/1862.pdf
+EXPERT JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1860.pdf
+FUNCTIONAL JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1858.pdf
+JAVASCRIPT FOR PHP DEVELOPERS
+http://opencarts.org/sachlaptrinh/pdf/1856.pdf
+JAVASCRIPT PROGRAMMER&#8217;S REFERENCE
+http://opencarts.org/sachlaptrinh/pdf/1854.pdf
+JAVASCRIPT STEP BY STEP, 3RD EDITION
+http://opencarts.org/sachlaptrinh/pdf/1852.pdf
+JAVASCRIPT TESTING WITH JASMINE
+http://opencarts.org/sachlaptrinh/pdf/1850.pdf
+JAVASCRIPT UNIT TESTING
+http://opencarts.org/sachlaptrinh/pdf/1848.pdf
+JUMP START JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1846.pdf
+TESTABLE JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1844.pdf
+THIRD-PARTY JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/21030.pdf
+GETTING STARTED WITH D3
+http://opencarts.org/sachlaptrinh/pdf/20091.pdf
+FUSIONCHARTS BEGINNER’S GUIDE: THE OFFICIAL GUIDE FOR FUSIONCHARTS SUITE
+http://opencarts.org/sachlaptrinh/pdf/19345.pdf
+SENCHA TOUCH MOBILE JAVASCRIPT FRAMEWORK
+http://opencarts.org/sachlaptrinh/pdf/18514.pdf
+FOUNDATION WEBSITE CREATION WITH HTML5, CSS3, AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/18510.pdf
+BEGINNING PHONEGAP
+http://opencarts.org/sachlaptrinh/pdf/15689.pdf
+EFFECTIVE JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/13366.pdf
+SMASHING NODE.JS: JAVASCRIPT EVERYWHERE
+http://opencarts.org/sachlaptrinh/pdf/11789.pdf
+LEARN HTML5 AND JAVASCRIPT FOR IOS
+http://opencarts.org/sachlaptrinh/pdf/10448.pdf
+GETTING STARTED WITH METEOR.JS JAVASCRIPT FRAMEWORK
+http://opencarts.org/sachlaptrinh/pdf/8570.pdf
+PRO WINDOWS 8 DEVELOPMENT WITH HTML5 AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/4801.pdf
+BEGINNING IOS APPLICATION DEVELOPMENT WITH HTML AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/4759.pdf
+LEARNING HTML5 AND JAVASCRIPT FOR IOS
+http://opencarts.org/sachlaptrinh/pdf/4473.pdf
+LEARN HTML5 AND JAVASCRIPT FOR ANDROID
+http://opencarts.org/sachlaptrinh/pdf/3483.pdf
+HTML5 AND JAVASCRIPT WEB APPS
+http://opencarts.org/sachlaptrinh/pdf/1842.pdf
+ASYNC JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1840.pdf
+JAVASCRIPT ENLIGHTENMENT
+http://opencarts.org/sachlaptrinh/pdf/1838.pdf
+JAVASCRIPT POCKET REFERENCE, 3RD EDITION
+http://opencarts.org/sachlaptrinh/pdf/1836.pdf
+JAVASCRIPT SUCCINCTLY
+http://opencarts.org/sachlaptrinh/pdf/1834.pdf
+LEARNING JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/14111.pdf
+NODE.JS BLUEPRINTS
+http://opencarts.org/sachlaptrinh/pdf/13969.pdf
+MASTERING ANGULARJS DIRECTIVES
+http://opencarts.org/sachlaptrinh/pdf/13961.pdf
+LEARNING YEOMAN
+http://opencarts.org/sachlaptrinh/pdf/13955.pdf
+LEARNING JQPLOT
+http://opencarts.org/sachlaptrinh/pdf/13915.pdf
+DEVELOPING RESPONSIVE WEB APPLICATIONS WITH AJAX AND JQUERY
+http://opencarts.org/sachlaptrinh/pdf/12182.pdf
+IF HEMINGWAY WROTE JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/11747.pdf
+GETTING STARTED WITH BACKBONE MARIONETTE
+http://opencarts.org/sachlaptrinh/pdf/11302.pdf
+EXAM REF 70-481: ESSENTIALS OF DEVELOPING WINDOWS STORE APPS USING HTML5 AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/10420.pdf
+JAVASCRIPT AND JQUERY: INTERACTIVE FRONT-END WEB DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/8713.pdf
+EXAM REF 70-480 PROGRAMMING IN HTML5 WITH JAVASCRIPT AND CSS3
+http://opencarts.org/sachlaptrinh/pdf/8711.pdf
+EXAM REF 70-481 ESSENTIALS OF DEVELOPING WINDOWS STORE APPS USING HTML5 AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/7652.pdf
+CLIENT-SERVER WEB APPS WITH JAVASCRIPT AND JAVA
+http://opencarts.org/sachlaptrinh/pdf/7409.pdf
+BUILDING JAVASCRIPT GAMES
+http://opencarts.org/sachlaptrinh/pdf/7355.pdf
+PHYSICS FOR JAVASCRIPT GAMES, ANIMATION, AND SIMULATIONS
+http://opencarts.org/sachlaptrinh/pdf/1892.pdf
+DATA STRUCTURES AND ALGORITHMS WITH JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1890.pdf
+ELOQUENT JAVASCRIPT, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/1888.pdf
+HEAD FIRST JAVASCRIPT PROGRAMMING
+http://opencarts.org/sachlaptrinh/pdf/1886.pdf
+JAVASCRIPT &AMP; JQUERY: THE MISSING MANUAL, 3RD EDITION
+http://opencarts.org/sachlaptrinh/pdf/1884.pdf
+JAVASCRIPT CREATIVITY
+http://opencarts.org/sachlaptrinh/pdf/1882.pdf
+JAVASCRIPT FOR KIDS
+http://opencarts.org/sachlaptrinh/pdf/1880.pdf
+JAVASCRIPT SECURITY
+http://opencarts.org/sachlaptrinh/pdf/1878.pdf
+MASTERING JAVASCRIPT DESIGN PATTERNS
+http://opencarts.org/sachlaptrinh/pdf/1876.pdf
+PRO JAVASCRIPT DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/1874.pdf
+PROGRAMMING JAVASCRIPT APPLICATIONS
+http://opencarts.org/sachlaptrinh/pdf/1872.pdf
+SPEAKING JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1870.pdf
+THE PRINCIPLES OF OBJECT-ORIENTED JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1868.pdf
+YOU DON&#8217;T KNOW JS: SCOPE &AMP; CLOSURES
+http://opencarts.org/sachlaptrinh/pdf/1866.pdf
+YOU DON&#8217;T KNOW JS: THIS &AMP; OBJECT PROTOTYPES
+http://opencarts.org/sachlaptrinh/pdf/28120.pdf
+GETTING STARTED WITH UNITY
+http://opencarts.org/sachlaptrinh/pdf/27928.pdf
+INSTANT NODE.JS STARTER
+http://opencarts.org/sachlaptrinh/pdf/13254.pdf
+PRACTICAL WEB DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/13234.pdf
+JAVASCRIPT AT SCALE
+http://opencarts.org/sachlaptrinh/pdf/13062.pdf
+MONGODB FOR JAVA DEVELOPERS
+http://opencarts.org/sachlaptrinh/pdf/13054.pdf
+JAVASCRIPT DOMAIN-DRIVEN DESIGN
+http://opencarts.org/sachlaptrinh/pdf/12879.pdf
+PROFESSIONAL ANGULARJS
+http://opencarts.org/sachlaptrinh/pdf/12877.pdf
+NW.JS ESSENTIALS
+http://opencarts.org/sachlaptrinh/pdf/12875.pdf
+NODE.JS BY EXAMPLE
+http://opencarts.org/sachlaptrinh/pdf/12859.pdf
+MULTIPLAYER GAME DEVELOPMENT WITH HTML5
+http://opencarts.org/sachlaptrinh/pdf/12853.pdf
+METEOR COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/12849.pdf
+MASTERING SPRING APPLICATION DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/12837.pdf
+LEARNING WEB DEVELOPMENT WITH BOOTSTRAP AND ANGULARJS
+http://opencarts.org/sachlaptrinh/pdf/12835.pdf
+LEARNING WEB COMPONENT DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/12815.pdf
+JAVASCRIPT JSON COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/12807.pdf
+PRIMEFACES COOKBOOK &#8211; SECOND EDITION
+http://opencarts.org/sachlaptrinh/pdf/12746.pdf
+SPRING COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/12617.pdf
+CODING WITH JAVASCRIPT FOR DUMMIES
+http://opencarts.org/sachlaptrinh/pdf/12599.pdf
+MASTERING JAVASCRIPT PROMISES
+http://opencarts.org/sachlaptrinh/pdf/12585.pdf
+DEPLOYING NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/12556.pdf
+THREE.JS COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/12548.pdf
+JAVASCRIPT: THE WEB WARRIOR SERIES, 6TH EDITION
+http://opencarts.org/sachlaptrinh/pdf/12379.pdf
+LEAN WEBSITES
+http://opencarts.org/sachlaptrinh/pdf/12373.pdf
+JAVASCRIPT WITH PROMISES
+http://opencarts.org/sachlaptrinh/pdf/12371.pdf
+JAVASCRIPT REGULAR EXPRESSIONS
+http://opencarts.org/sachlaptrinh/pdf/12369.pdf
+JASMINE COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/12361.pdf
+GRUNT.JS COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/12355.pdf
+EXT JS APPLICATION DEVELOPMENT BLUEPRINTS
+http://opencarts.org/sachlaptrinh/pdf/12353.pdf
+EXPRESS.JS BLUEPRINTS
+http://opencarts.org/sachlaptrinh/pdf/12349.pdf
+EMBER.JS WEB DEVELOPMENT WITH EMBER CLI
+http://opencarts.org/sachlaptrinh/pdf/12186.pdf
+DATA VISUALIZATION WITH JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/12011.pdf
+PRACTICAL JQUERY
+http://opencarts.org/sachlaptrinh/pdf/19066.pdf
+MASTERING METEORJS APPLICATION DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/19064.pdf
+LEARNING NODE.JS FOR MOBILE APPLICATION DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/19019.pdf
+LEARNING UNDERSCORE.JS
+http://opencarts.org/sachlaptrinh/pdf/18915.pdf
+REACT.JS ESSENTIALS
+http://opencarts.org/sachlaptrinh/pdf/18238.pdf
+JAVASCRIPT UNLOCKED
+http://opencarts.org/sachlaptrinh/pdf/18207.pdf
+INTRODUCTION TO JAVASCRIPT OBJECT NOTATION
+http://opencarts.org/sachlaptrinh/pdf/18165.pdf
+LEARNING REACT NATIVE
+http://opencarts.org/sachlaptrinh/pdf/18157.pdf
+APPCELERATOR TITANIUM SMARTPHONE APP DEVELOPMENT COOKBOOK, SECOND EDITION
+http://opencarts.org/sachlaptrinh/pdf/18133.pdf
+JAVASCRIPT IN 24 HOURS, SAMS TEACH YOURSELF, 6TH EDITION
+http://opencarts.org/sachlaptrinh/pdf/17629.pdf
+PROGRAMMING CHROME APPS
+http://opencarts.org/sachlaptrinh/pdf/16961.pdf
+NODE.JS ESSENTIALS
+http://opencarts.org/sachlaptrinh/pdf/16799.pdf
+RELIABLE JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/16617.pdf
+JAVASCRIPT FOR KIDS FOR DUMMIES
+http://opencarts.org/sachlaptrinh/pdf/16436.pdf
+IONIC: BUILDING MOBILE APPS WITH IONIC FRAMEWORK
+http://opencarts.org/sachlaptrinh/pdf/16340.pdf
+BEAUTIFUL JAVASCRIPT: LEADING PROGRAMMERS EXPLAIN HOW THEY THINK
+http://opencarts.org/sachlaptrinh/pdf/15605.pdf
+COFFEESCRIPT APPLICATION DEVELOPMENT COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/15421.pdf
+JAVASCRIPT QUICK SYNTAX REFERENCE
+http://opencarts.org/sachlaptrinh/pdf/14680.pdf
+MASTERING NETBEANS
+http://opencarts.org/sachlaptrinh/pdf/14242.pdf
+PRO JAVASCRIPT TECHNIQUES, SECOND EDITION
+http://opencarts.org/sachlaptrinh/pdf/14186.pdf
+MASTERING TYPESCRIPT
+http://opencarts.org/sachlaptrinh/pdf/14172.pdf
+WEBSOCKET: LIGHTWEIGHT CLIENT-SERVER COMMUNICATIONS
+http://opencarts.org/sachlaptrinh/pdf/14064.pdf
+ANGULARJS IN ACTION
+http://opencarts.org/sachlaptrinh/pdf/13737.pdf
+BEGINNING JAVASCRIPT, 5TH EDITION
+http://opencarts.org/sachlaptrinh/pdf/13736.pdf
+FUNCTIONAL PROGRAMMING IN JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/13735.pdf
+JAVASCRIPT APPLICATION DESIGN
+http://opencarts.org/sachlaptrinh/pdf/13734.pdf
+JAVASCRIPT COOKBOOK, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/13733.pdf
+LEARNING BEHAVIOR-DRIVEN DEVELOPMENT WITH JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/13687.pdf
+HTML5, JAVASCRIPT, AND JQUERY 24-HOUR TRAINER
+http://opencarts.org/sachlaptrinh/pdf/13521.pdf
+ADVANCED GAME DESIGN WITH HTML5 AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/13455.pdf
+PRO REST API DEVELOPMENT WITH NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/28574.pdf
+INTRODUCING JAVASCRIPT GAME DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/28521.pdf
+INTRODUCING ARCGIS API 4 FOR JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/28492.pdf
+PRO TYPESCRIPT, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/28380.pdf
+INTERACTIVE DATA VISUALIZATION FOR THE WEB, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/28219.pdf
+PRO HTML5 GAMES, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/28176.pdf
+LEARNING REACT
+http://opencarts.org/sachlaptrinh/pdf/28157.pdf
+REACTIVE WITH CLOJURESCRIPT RECIPES
+http://opencarts.org/sachlaptrinh/pdf/28130.pdf
+ENHANCING ADOBE ACROBAT DC FORMS WITH JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/27916.pdf
+RXJS IN ACTION
+http://opencarts.org/sachlaptrinh/pdf/27714.pdf
+JAVASCRIPT ESSENTIALS FOR SAP ABAP DEVELOPERS
+http://opencarts.org/sachlaptrinh/pdf/27514.pdf
+SERVERLESS ARCHITECTURES ON AWS
+http://opencarts.org/sachlaptrinh/pdf/26046.pdf
+MAKING GAMES
+http://opencarts.org/sachlaptrinh/pdf/25852.pdf
+JAVASCRIPT RECIPES
+http://opencarts.org/sachlaptrinh/pdf/27999.pdf
+FLUX ARCHITECTURE
+http://opencarts.org/sachlaptrinh/pdf/27466.pdf
+JQUERY MOBILE WEB DEVELOPMENT ESSENTIALS, THIRD EDITION
+http://opencarts.org/sachlaptrinh/pdf/26969.pdf
+BUILDING SLACK BOTS
+http://opencarts.org/sachlaptrinh/pdf/26845.pdf
+LEARNING NODE, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/26289.pdf
+JAVASCRIPT FOR .NET DEVELOPERS
+http://opencarts.org/sachlaptrinh/pdf/25904.pdf
+LEARNING ANGULAR 2
+http://opencarts.org/sachlaptrinh/pdf/25900.pdf
+MASTERING ANGULAR 2 COMPONENTS
+http://opencarts.org/sachlaptrinh/pdf/25727.pdf
+BUILDING APIS WITH NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/25482.pdf
+MODULAR PROGRAMMING WITH JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/24934.pdf
+MASTERING JAVASCRIPT OBJECT-ORIENTED PROGRAMMING
+http://opencarts.org/sachlaptrinh/pdf/24476.pdf
+REACTJS BLUEPRINTS
+http://opencarts.org/sachlaptrinh/pdf/24384.pdf
+SECRETS OF THE JAVASCRIPT NINJA, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/24317.pdf
+SERVICE WORKER DEVELOPMENT COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/24315.pdf
+TYPESCRIPT DESIGN PATTERNS
+http://opencarts.org/sachlaptrinh/pdf/24234.pdf
+LEARNING GRAPHQL AND RELAY
+http://opencarts.org/sachlaptrinh/pdf/23705.pdf
+UNDERSTANDING ECMASCRIPT 6
+http://opencarts.org/sachlaptrinh/pdf/23394.pdf
+LEARNING CLOJURESCRIPT
+http://opencarts.org/sachlaptrinh/pdf/23390.pdf
+MODERN JAVASCRIPT APPLICATIONS
+http://opencarts.org/sachlaptrinh/pdf/22920.pdf
+LEARNING GOOGLE APPS SCRIPT
+http://opencarts.org/sachlaptrinh/pdf/22919.pdf
+MASTERING JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/22231.pdf
+ARCGIS FOR JAVASCRIPT DEVELOPERS BY EXAMPLE
+http://opencarts.org/sachlaptrinh/pdf/22077.pdf
+JSON QUICK SYNTAX REFERENCE
+http://opencarts.org/sachlaptrinh/pdf/21792.pdf
+REACTJS BY EXAMPLE &#8211; BUILDING MODERN WEB APPLICATIONS WITH REACT
+http://opencarts.org/sachlaptrinh/pdf/21650.pdf
+DEVELOPING MICROSERVICES WITH NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/21482.pdf
+SECURE YOUR NODE.JS WEB APPLICATION
+http://opencarts.org/sachlaptrinh/pdf/20675.pdf
+MASTERING REACT
+http://opencarts.org/sachlaptrinh/pdf/20674.pdf
+SPRING MVC COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/20110.pdf
+LEARNING JAVASCRIPT, 3RD EDITION
+http://opencarts.org/sachlaptrinh/pdf/19843.pdf
+MASTERING OPENLAYERS 3
+http://opencarts.org/sachlaptrinh/pdf/19514.pdf
+CLOJURE FOR FINANCE
+http://opencarts.org/sachlaptrinh/pdf/19221.pdf
+CLIENT-SIDE DATA STORAGE
+http://opencarts.org/sachlaptrinh/pdf/18839.pdf
+HTML, CSS &#038; JAVASCRIPT WEB PUBLISHING IN ONE HOUR A DAY, SAMS TEACH YOURSEL, 7TH EDITION
+http://opencarts.org/sachlaptrinh/pdf/26963.pdf
+LEARNING TYPESCRIPT
+http://opencarts.org/sachlaptrinh/pdf/25480.pdf
+LEARNING ECMASCRIPT 6
+http://opencarts.org/sachlaptrinh/pdf/22508.pdf
+REACTIVE PROGRAMMING WITH RXJS
+http://opencarts.org/sachlaptrinh/pdf/21343.pdf
+LEARNING THREE.JS: THE JAVASCRIPT 3D LIBRARY FOR WEBGL, SECOND EDITION
+http://opencarts.org/sachlaptrinh/pdf/20825.pdf
+DATA-ORIENTED DEVELOPMENT WITH ANGULARJS
+http://opencarts.org/sachlaptrinh/pdf/20823.pdf
+JASMINE JAVASCRIPT TESTING
+http://opencarts.org/sachlaptrinh/pdf/20679.pdf
+GETTING STARTED WITH METEOR.JS JAVASCRIPT FRAMEWORK, SECOND EDITION
+http://opencarts.org/sachlaptrinh/pdf/19740.pdf
+JAVASCRIPT OBJECT PROGRAMMING
+http://opencarts.org/sachlaptrinh/pdf/19426.pdf
+HTML, CSS &#038; JAVASCRIPT WEB PUBLISHING IN ONE HOUR A DAY, SAMS TEACH YOURSELF, 7TH EDITION
+http://opencarts.org/sachlaptrinh/pdf/19400.pdf
+FULL STACK JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/19300.pdf
+INTRODUCING METEOR
+http://opencarts.org/sachlaptrinh/pdf/19088.pdf
+D3.JS BY EXAMPLE
+http://opencarts.org/sachlaptrinh/pdf/19086.pdf
+JAVASCRIPT CONCURRENCY
+http://opencarts.org/sachlaptrinh/pdf/19080.pdf
+GETTING STARTED WITH REACT NATIVE
+http://opencarts.org/sachlaptrinh/pdf/19072.pdf
+WEB DEVELOPMENT WITH MONGODB AND NODEJS
+http://opencarts.org/sachlaptrinh/pdf/11855.pdf
+MASTERING JAVASCRIPT HIGH PERFORMANCE
+http://opencarts.org/sachlaptrinh/pdf/8935.pdf
+CUSTOM SHAREPOINT SOLUTIONS WITH HTML AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/129.pdf
+PRO GRUNT.JS
+http://opencarts.org/sachlaptrinh/pdf/125.pdf
+BEGINNING AMAZON WEB SERVICES WITH NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/27302.pdf
+QUICK START GUIDE TO JAVAFX
+http://opencarts.org/sachlaptrinh/pdf/27184.pdf
+TYPESCRIPT ESSENTIALS
+http://opencarts.org/sachlaptrinh/pdf/27171.pdf
+LEAFLET.JS ESSENTIALS
+http://opencarts.org/sachlaptrinh/pdf/26923.pdf
+KENDO UI COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/25858.pdf
+CREATE WEB CHARTS WITH D3
+http://opencarts.org/sachlaptrinh/pdf/24706.pdf
+JAVASCRIPT AND JQUERY FOR DATA ANALYSIS AND VISUALIZATION
+http://opencarts.org/sachlaptrinh/pdf/23313.pdf
+BUILDING WEB AND MOBILE ARCGIS SERVER APPLICATIONS WITH JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/22574.pdf
+PROGRAMMING 3D APPLICATIONS WITH HTML5 AND WEBGL
+http://opencarts.org/sachlaptrinh/pdf/22570.pdf
+GETTING STARTED WITH GRUNT: THE JAVASCRIPT TASK RUNNER
+http://opencarts.org/sachlaptrinh/pdf/21835.pdf
+NODE COOKBOOK, SECOND EDITION
+http://opencarts.org/sachlaptrinh/pdf/21475.pdf
+NODE.JS DESIGN PATTERNS
+http://opencarts.org/sachlaptrinh/pdf/21322.pdf
+CREATE WEB CHARTS WITH JQPLOT
+http://opencarts.org/sachlaptrinh/pdf/21306.pdf
+LEARNING PHP, MYSQL &#038; JAVASCRIPT, 4TH EDITION
+http://opencarts.org/sachlaptrinh/pdf/21210.pdf
+NODE.JS IN PRACTICE
+http://opencarts.org/sachlaptrinh/pdf/21073.pdf
+PHONEGAP 3.X MOBILE APPLICATION DEVELOPMENT HOTSHOT
+http://opencarts.org/sachlaptrinh/pdf/20437.pdf
+LEARNING CONTINUOUS INTEGRATION WITH TEAMCITY
+http://opencarts.org/sachlaptrinh/pdf/17318.pdf
+PRO TYPESCRIPT
+http://opencarts.org/sachlaptrinh/pdf/17121.pdf
+PRACTICAL NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/15565.pdf
+GETTING STARTED WITH CREATEJS
+http://opencarts.org/sachlaptrinh/pdf/15315.pdf
+BACKBONE.JS PATTERNS AND BEST PRACTICES
+http://opencarts.org/sachlaptrinh/pdf/14738.pdf
+MASTERING KNOCKOUTJS
+http://opencarts.org/sachlaptrinh/pdf/14720.pdf
+JAVASCRIPT MOBILE APPLICATION DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/14714.pdf
+BUILDING SCALABLE APPS WITH REDIS AND NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/14704.pdf
+NETBEANS IDE 8 COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/14694.pdf
+ANGULARJS UI DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/14131.pdf
+WILDFLY PERFORMANCE TUNING
+http://opencarts.org/sachlaptrinh/pdf/27849.pdf
+GETTING STARTED WITH ZURB FOUNDATION 4
+http://opencarts.org/sachlaptrinh/pdf/27509.pdf
+BACKBONE.JS COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/27276.pdf
+PRO JQUERY 2.0, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/27000.pdf
+TYPESCRIPT REVEALED
+http://opencarts.org/sachlaptrinh/pdf/23043.pdf
+BUILDING NODE APPLICATIONS WITH MONGODB AND BACKBONE
+http://opencarts.org/sachlaptrinh/pdf/21837.pdf
+LEARNING DHTMLX SUITE UI
+http://opencarts.org/sachlaptrinh/pdf/21693.pdf
+INSTANT JQGRID
+http://opencarts.org/sachlaptrinh/pdf/20480.pdf
+OBJECT-ORIENTED JAVASCRIPT, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/20479.pdf
+JAVASCRIPT AND JSON ESSENTIALS
+http://opencarts.org/sachlaptrinh/pdf/20320.pdf
+REAL-TIME WEB APPLICATION DEVELOPMENT USING VERT.X 2.0
+http://opencarts.org/sachlaptrinh/pdf/20305.pdf
+SOCIAL DATA VISUALIZATION WITH HTML5 AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/20293.pdf
+SENCHA TOUCH 2 MOBILE JAVASCRIPT FRAMEWORK
+http://opencarts.org/sachlaptrinh/pdf/20160.pdf
+LEAP MOTION DEVELOPMENT ESSENTIALS
+http://opencarts.org/sachlaptrinh/pdf/18055.pdf
+WINDOWS 8 APPS REVEALED USING HTML5 AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/17555.pdf
+REAL WORLD WINDOWS 8 APP DEVELOPMENT WITH JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/16238.pdf
+EXT JS DATA-DRIVEN APPLICATION DESIGN
+http://opencarts.org/sachlaptrinh/pdf/15630.pdf
+JAVASCRIPT PROGRAMMING: PUSHING THE LIMITS
+http://opencarts.org/sachlaptrinh/pdf/15456.pdf
+EXT JS 4 PLUGIN AND EXTENSION DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/14623.pdf
+JAVASCRIPT: A BEGINNER&#8217;S GUIDE, FOURTH EDITION
+http://opencarts.org/sachlaptrinh/pdf/11920.pdf
+ADVANCED EXPRESS WEB APPLICATION DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/11914.pdf
+MONGOOSE FOR APPLICATION DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/11805.pdf
+VISUALFORCE DEVELOPMENT COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/11803.pdf
+MASTERING NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/10864.pdf
+GOOGLE MAPS JAVASCRIPT API COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/10469.pdf
+BEGINNING JAVASCRIPT CHARTS
+http://opencarts.org/sachlaptrinh/pdf/10459.pdf
+LEARNING JAVASCRIPTMVC
+http://opencarts.org/sachlaptrinh/pdf/10406.pdf
+JQUERY AND JAVASCRIPT PHRASEBOOK
+http://opencarts.org/sachlaptrinh/pdf/8697.pdf
+ADVANCED WINDOWS STORE APP DEVELOPMENT USING HTML5 AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/4523.pdf
+BUILDING HYBRID ANDROID APPS WITH JAVA AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/3513.pdf
+HTML5 PROGRAMMING WITH JAVASCRIPT FOR DUMMIES
+http://opencarts.org/sachlaptrinh/pdf/1802.pdf
+JAVASCRIPT COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/1800.pdf
+JAVASCRIPT FOR ABSOLUTE BEGINNERS
+http://opencarts.org/sachlaptrinh/pdf/1798.pdf
+JAVASCRIPT PATTERNS
+http://opencarts.org/sachlaptrinh/pdf/1796.pdf
+JAVASCRIPT STEP BY STEP, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/1794.pdf
+JAVASCRIPT TESTING
+http://opencarts.org/sachlaptrinh/pdf/1792.pdf
+PLUG-IN JAVASCRIPT: 100 POWER SOLUTIONS
+http://opencarts.org/sachlaptrinh/pdf/1790.pdf
+PRAGMATIC GUIDE TO JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1788.pdf
+PRO JAVASCRIPT WITH MOOTOOLS
+http://opencarts.org/sachlaptrinh/pdf/1786.pdf
+PROFESSIONAL XMPP PROGRAMMING WITH JAVASCRIPT AND JQUERY
+http://opencarts.org/sachlaptrinh/pdf/1784.pdf
+TEST-DRIVEN JAVASCRIPT DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/24286.pdf
+MICROSOFT POWERSHELL, VBSCRIPT AND JSCRIPT BIBLE
+http://opencarts.org/sachlaptrinh/pdf/1782.pdf
+BEGINNING JAVASCRIPT AND CSS DEVELOPMENT WITH JQUERY
+http://opencarts.org/sachlaptrinh/pdf/20290.pdf
+SAMS TEACH YOURSELF AJAX, JAVASCRIPT, AND PHP ALL IN ONE
+http://opencarts.org/sachlaptrinh/pdf/13411.pdf
+JAVASCRIPT: THE MISSING MANUAL
+http://opencarts.org/sachlaptrinh/pdf/1780.pdf
+JAVASCRIPT: THE GOOD PARTS
+http://opencarts.org/sachlaptrinh/pdf/1778.pdf
+OBJECT-ORIENTED JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/19126.pdf
+PRACTICAL JAVASCRIPT, DOM SCRIPTING AND AJAX PROJECTS
+http://opencarts.org/sachlaptrinh/pdf/1776.pdf
+BEGINNING JAVASCRIPT, 3RD EDITION
+http://opencarts.org/sachlaptrinh/pdf/1774.pdf
+HEAD FIRST JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1772.pdf
+JAVASCRIPT &AMP; DHTML COOKBOOK, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/1770.pdf
+PRO JAVASCRIPT DESIGN PATTERNS
+http://opencarts.org/sachlaptrinh/pdf/1768.pdf
+SIMPLY JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1766.pdf
+THE ART &AMP; SCIENCE OF JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1764.pdf
+BEGINNING JAVASCRIPT WITH DOM SCRIPTING AND AJAX: FROM NOVICE TO PROFESSIONAL
+http://opencarts.org/sachlaptrinh/pdf/1762.pdf
+PRO JAVASCRIPT TECHNIQUES
+http://opencarts.org/sachlaptrinh/pdf/1760.pdf
+THE BOOK OF JAVASCRIPT, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/1758.pdf
+THE JAVASCRIPT ANTHOLOGY
+http://opencarts.org/sachlaptrinh/pdf/1756.pdf
+DHTML UTOPIA MODERN WEB DESIGN USING JAVASCRIPT &AMP; DOM
+http://opencarts.org/sachlaptrinh/pdf/1754.pdf
+PROFESSIONAL JAVASCRIPT FOR WEB DEVELOPERS
+http://opencarts.org/sachlaptrinh/pdf/1752.pdf
+JAVASCRIPT FOR DUMMIES, 4TH EDITION
+http://opencarts.org/sachlaptrinh/pdf/1832.pdf
+MAINTAINABLE JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1830.pdf
+MOBILE JAVASCRIPT APPLICATION DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/1828.pdf
+MODERN JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/1826.pdf
+PRO JAVASCRIPT FOR WEB APPS
+http://opencarts.org/sachlaptrinh/pdf/1824.pdf
+PRO JAVASCRIPT PERFORMANCE
+http://opencarts.org/sachlaptrinh/pdf/1822.pdf
+PROFESSIONAL JAVASCRIPT FOR WEB DEVELOPERS, 3RD EDITION
+http://opencarts.org/sachlaptrinh/pdf/1818.pdf
+THE PROBLEM WITH NATIVE JAVASCRIPT APIS
+http://opencarts.org/sachlaptrinh/pdf/1816.pdf
+WEB WORKERS
+http://opencarts.org/sachlaptrinh/pdf/1016.pdf
+LEARNING JAVASCRIPT DESIGN PATTERNS
+http://opencarts.org/sachlaptrinh/pdf/21929.pdf
+MOOTOOLS 1.3 COOKBOOK
+http://opencarts.org/sachlaptrinh/pdf/18512.pdf
+FOUNDATION HTML5 ANIMATION WITH JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/18416.pdf
+ELOQUENT JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/13403.pdf
+DJANGO JAVASCRIPT INTEGRATION: AJAX AND JQUERY
+http://opencarts.org/sachlaptrinh/pdf/7169.pdf
+MAKING ISOMETRIC SOCIAL REAL-TIME GAMES WITH HTML5, CSS3, AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/3443.pdf
+HTML, CSS, AND JAVASCRIPT MOBILE DEVELOPMENT FOR DUMMIES
+http://opencarts.org/sachlaptrinh/pdf/3435.pdf
+HTML5 AND JAVASCRIPT PROJECTS
+http://opencarts.org/sachlaptrinh/pdf/3405.pdf
+SAMS TEACH YOURSELF HTML, CSS, AND JAVASCRIPT ALL IN ONE
+http://opencarts.org/sachlaptrinh/pdf/1814.pdf
+BEGINNING JAVASCRIPT, 4TH EDITION
+http://opencarts.org/sachlaptrinh/pdf/1812.pdf
+HEAD FIRST JQUERY
+http://opencarts.org/sachlaptrinh/pdf/1810.pdf
+JAVASCRIPT &AMP; JQUERY: THE MISSING MANUAL, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/1808.pdf
+JAVASCRIPT WEB APPLICATIONS
+http://opencarts.org/sachlaptrinh/pdf/1806.pdf
+JAVASCRIPT: THE DEFINITIVE GUIDE, 6TH EDITION
+http://opencarts.org/sachlaptrinh/pdf/19298.pdf
+JAVASCRIPT AND AJAX FOR DUMMIES
+http://opencarts.org/sachlaptrinh/pdf/19116.pdf
+BUILDING IPHONE APPS WITH HTML, CSS, AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/13361.pdf
+MAP SCRIPTING 101
+http://opencarts.org/sachlaptrinh/pdf/4395.pdf
+BUILDING ANDROID APPS WITH HTML, CSS, AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/3395.pdf
+BEGINNING HTML, XHTML, CSS, AND JAVASCRIPT
+http://opencarts.org/sachlaptrinh/pdf/3387.pdf
+HTML AND JAVASCRIPT BASICS, 4TH EDITION
+http://opencarts.org/sachlaptrinh/pdf/3013.pdf
+JOOMLA! 1.5 JAVASCRIPT JQUERY
+http://opencarts.org/sachlaptrinh/pdf/1804.pdf
+HIGH PERFORMANCE JAVASCRIPT

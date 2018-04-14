@@ -1,0 +1,66 @@
+http://opencarts.org/sachlaptrinh/pdf/26845.pdf
+LEARNING NODE, 2ND EDITION
+http://opencarts.org/sachlaptrinh/pdf/26295.pdf
+REACTIVE PROGRAMMING WITH NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/26117.pdf
+PROGRAMMING WEB APPLICATIONS WITH NODE, EXPRESS AND PUG
+http://opencarts.org/sachlaptrinh/pdf/25902.pdf
+LEARNING NODE.JS FOR .NET DEVELOPERS
+http://opencarts.org/sachlaptrinh/pdf/25727.pdf
+BUILDING APIS WITH NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/24508.pdf
+NODE.JS FOR EMBEDDED SYSTEMS
+http://opencarts.org/sachlaptrinh/pdf/21650.pdf
+DEVELOPING MICROSERVICES WITH NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/21482.pdf
+SECURE YOUR NODE.JS WEB APPLICATION
+http://opencarts.org/sachlaptrinh/pdf/19223.pdf
+GETTING MEAN WITH MONGO, EXPRESS, ANGULAR, AND NODE
+http://opencarts.org/sachlaptrinh/pdf/19072.pdf
+WEB DEVELOPMENT WITH MONGODB AND NODEJS
+http://opencarts.org/sachlaptrinh/pdf/19064.pdf
+LEARNING NODE.JS FOR MOBILE APPLICATION DEVELOPMENT
+http://opencarts.org/sachlaptrinh/pdf/16961.pdf
+NODE.JS ESSENTIALS
+http://opencarts.org/sachlaptrinh/pdf/14200.pdf
+NODE.JS HIGH PERFORMANCE
+http://opencarts.org/sachlaptrinh/pdf/13455.pdf
+PRO REST API DEVELOPMENT WITH NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/12875.pdf
+NODE.JS BY EXAMPLE
+http://opencarts.org/sachlaptrinh/pdf/12585.pdf
+DEPLOYING NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/11904.pdf
+RESTFUL WEB API DESIGN WITH NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/125.pdf
+BEGINNING AMAZON WEB SERVICES WITH NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/27239.pdf
+WEB DEVELOPMENT WITH MONGODB AND NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/21835.pdf
+NODE COOKBOOK, SECOND EDITION
+http://opencarts.org/sachlaptrinh/pdf/21475.pdf
+NODE.JS DESIGN PATTERNS
+http://opencarts.org/sachlaptrinh/pdf/21210.pdf
+NODE.JS IN PRACTICE
+http://opencarts.org/sachlaptrinh/pdf/17121.pdf
+PRACTICAL NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/14714.pdf
+BUILDING SCALABLE APPS WITH REDIS AND NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/14111.pdf
+NODE.JS BLUEPRINTS
+http://opencarts.org/sachlaptrinh/pdf/10332.pdf
+WEB DEVELOPMENT WITH NODE AND EXPRESS
+http://opencarts.org/sachlaptrinh/pdf/27928.pdf
+INSTANT NODE.JS STARTER
+http://opencarts.org/sachlaptrinh/pdf/23043.pdf
+BUILDING NODE APPLICATIONS WITH MONGODB AND BACKBONE
+http://opencarts.org/sachlaptrinh/pdf/22572.pdf
+NODE SECURITY
+http://opencarts.org/sachlaptrinh/pdf/11803.pdf
+MASTERING NODE.JS
+http://opencarts.org/sachlaptrinh/pdf/13366.pdf
+SMASHING NODE.JS: JAVASCRIPT EVERYWHERE
+http://opencarts.org/sachlaptrinh/pdf/20164.pdf
+HP NETWORK NODE MANAGER 9: GETTING STARTED
+http://opencarts.org/sachlaptrinh/pdf/10840.pdf
+BUILDING HYPERMEDIA APIS WITH HTML5 AND NODE
